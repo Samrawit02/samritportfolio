@@ -1,0 +1,83 @@
+{
+  "main": {
+    "name": "Samrawit Ayalew",
+    "occupation": "Freelancer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Samrawit Ayalew! I've been  learning to software Engineering for over 5 years at Addis Ababa Inistitude of Technology. I am fresh Gratuate , thinking to be come a freelancer, to develope different projects.and i am a  fan of react js for frontend and node js for the backend languages",
+    "contactmessage": "Get in touch with me to be a part of My  fam!",
+    "email": "hairaer02@gmail.com",
+    "phone": "+251922787213",
+    "address": {
+      "street": "yeka ",
+      "city": "Addis Ababa",
+      "state": "Ethiopia",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/samrawit.ayalew.7",
+        "className": "fa fa-facebook"
+      },
+     
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ayalewsamrawit/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Samrawit02",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Addis Ababa Instutute of Technology - Ethiopia",
+        "degree": "Bachelor's Degree, Software Engineering",
+        "graduated": "Dec 2020",
+        "description": "Graduated "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "30%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Zoom Clone (Node js)",
+        "category": "",
+        "image": "zoom.jpg",
+        "url": "https://samri-zoom.herokuapp.com/1d11c245-cb8e-4151-9180-8be0208623fe"
+      }
+     
+    ]
+  }
+ 
+}
